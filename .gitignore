@@ -1,0 +1,14 @@
+﻿# Python虚拟环境
+.venv/
+venv/
+
+# Python编译文件
+__pycache__/
+*.pyc
+
+# IDE文件
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store

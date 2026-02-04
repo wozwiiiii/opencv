@@ -1,0 +1,10 @@
+﻿# Python依赖包
+# 使用以下命令安装: pip install -r requirements.txt
+numpy
+opencv-python
+matplotlib
+scikit-learn
+pandas
+scipy
+Pillow
+tqdm
